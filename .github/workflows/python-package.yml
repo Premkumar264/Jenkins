@@ -52,6 +52,6 @@ jobs:
         with:
            pull: true
            push: true
-           tags: kumar264/sshawslinux:latest
+           tags: kumar264/sshawslinux:v1
            
       
