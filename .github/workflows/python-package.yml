@@ -50,8 +50,8 @@ jobs:
       - name: Build and Push
         uses: docker/build-push-action@v5.1.0
         with:
+           pull: true
            push: true
-           tags: kumar265/gfgflackapp:latest
-        
+           tags: kumar265/projflackapp:latest
            
       
