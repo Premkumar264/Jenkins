@@ -52,6 +52,6 @@ jobs:
         with:
            pull: true
            push: true
-           tags: kumar265/projflackapp:latest
+           tags: kumar264/sshawslinux:latest
            
       
