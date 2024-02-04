@@ -51,7 +51,7 @@ jobs:
         uses: docker/build-push-action@v5.1.0
         with:
            push: true
-           tags: kumar265/firstcihit:latest
+           tags: kumar265/flaskapp:latest
            
         
            
